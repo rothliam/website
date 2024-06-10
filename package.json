@@ -1,5 +1,6 @@
 {
   "name": "website",
+  "homepage": "https://github.io.rothliam/website",
   "version": "1.0.0",
   "description": "\"# website\"",
   "main": "index.js",
