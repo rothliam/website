@@ -57,7 +57,7 @@ function Navbar() {
  
       <nav className={`${menuOpen ? Styles.nav_open : Styles.nav_closed}`}>
         <ul className={Styles.nav_ul_mobile}>
-        <img className={Styles.logo} src="./logo.png" alt="Logo" />
+        <img className={Styles.logo} src="./logo.jpeg" alt="Logo" />
           <li className={Styles.nav_ul_li}>
             <Link className={Styles.nav_ul_li_a} href="/">Home</Link>
           </li>

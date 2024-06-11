@@ -1,9 +1,10 @@
 import React from 'react'
+import Styles from './index.module.css';
 
 function index() {
   return (
     <div>
-      Halool men
+      <img className={Styles.gif} src="/coding.gif" alt="loading..." />
     </div>
   )
 }
