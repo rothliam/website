@@ -1,14 +1,14 @@
 /* styles/footer.module.css */
 .footer {
-    background-color: #101010;
-    color: #fff;
-    padding: 2rem 1rem;
-    position: relative;
-    width: 100%;
-    border-radius: 10px 10px 0 0; /* Abgerundete Ecken oben links und rechts */
-    max-height: 15vh;
-  }
-  
+  background-color: #101010;
+  color: #fff;
+  padding: 2rem 1rem;
+  position: relative;
+  width: auto;
+  border-radius: 10px 10px 10px 10px; /* Oben links, oben rechts, unten rechts, unten links */
+  max-height: 15vh;
+}
+
   .footerContent {
     display: flex;
     justify-content: space-between;
