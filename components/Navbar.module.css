@@ -1,3 +1,16 @@
+/* styles/navbar.module.css */
+
+.navContainer {
+  border: 2px solid white; /* Weißer Rand um den gesamten Nav-Bereich */
+  border-radius: 10px; /* Optional: Abrundung der Ecken */
+  padding: 10px; /* Optional: Innenabstand für den Rand */
+  position: fixed; /* Navbar positionieren */
+  top: 0; /* Oben an der Seite positionieren */
+  left: 0;
+  width: 100%; /* Volle Breite der Seite */
+  z-index: 1000; /* In den Vordergrund bringen */
+}
+
 .logo {
   width: 30%;
   height: 30%;
@@ -20,7 +33,6 @@
   justify-content: space-between;
   align-items: center;
 }
-
 
 .nav_ul {
   list-style: none;
@@ -158,37 +170,37 @@
   z-index: 100;
 }
 
-.lock{
+.lock {
   width: 5%;
 }
 
 @media (max-width: 1024px) {
   .nav_ul {
-      display: none;
-      margin-bottom: 100%;
+    display: none;
+    margin-bottom: 100%;
   }
 
   .burger {
-      display: flex;
-      z-index: 121;
+    display: flex;
+    z-index: 121;
   }
 
   .nav_open .nav_ul_mobile {
-      display: flex;
-      margin-bottom: 100%
+    display: flex;
+    margin-bottom: 100%;
   }
 
   .nav_ul_li {
-      margin-right: 0;
-      margin-bottom: 10px;
-      margin-top: 10%;
+    margin-right: 0;
+    margin-bottom: 10px;
+    margin-top: 10%;
   }
 
   .nav_ul_li_a {
-      padding: 5px 10px;
+    padding: 5px 10px;
   }
 
-  .logo{
-      margin-left: 10px
+  .logo {
+    margin-left: 10px;
   }
 }
