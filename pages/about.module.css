@@ -1,0 +1,18 @@
+.maintitle {
+    font-size: 72px;
+    color: white;
+}
+
+.container {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

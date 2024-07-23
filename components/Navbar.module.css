@@ -7,7 +7,7 @@
   position: fixed; /* Navbar positionieren */
   top: 0; /* Oben an der Seite positionieren */
   left: 0;
-  width: 100%; /* Volle Breite der Seite */
+  width: 100vh; /* Volle Breite der Seite */
   z-index: 1000; /* In den Vordergrund bringen */
 }
 

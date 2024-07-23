@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Navbar from '../components/Navbar'
+import Navbar from '../components/navbar';
 import Head from 'next/head'
 import Footer from '../components/Footer';
 import { global } from 'styled-jsx/css';
