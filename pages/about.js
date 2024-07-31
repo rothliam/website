@@ -19,7 +19,7 @@ function about() {
     </div>
     </div>
     <div className={Styles.content}>
-      <a>der betende mann hat ein gebet ausgesprochen, als er sein gebet vollendet hatte, war er glücklich und zu frieden. daher möchte der mann auch dass er nach hause kehren darf.</a>
+      <a>der betende mann hat ein gebet ausgesprochen, als er sein gebet vollendet hatte, war er glücklich und zu frieden. daher möchte der mann auch dass er nach hause kehren darf. dede dedededa asd adasde ich habe krebs</a>
     </div>
     </>
   )

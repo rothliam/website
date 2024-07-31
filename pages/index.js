@@ -27,6 +27,7 @@ function Index() {
           display: flex;
           align-items: center;
           justify-content: center;
+          height: 90vh;
         }
 
         .animation {
