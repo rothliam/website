@@ -1,0 +1,41 @@
+.maintitle {
+    font-size: 72px;
+    color: white;
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    margin-top: -5vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    font-size: 24px;
+}.maintitle {
+    font-size: 72px;
+    color: white;
+}
+
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    margin-top: -5vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    font-size: 24px;
+}
